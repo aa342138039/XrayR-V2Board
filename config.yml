@@ -9,7 +9,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://izbz.xyz" # 修改这里
       ApiKey: "missleomissleomissleo" # 修改这里
-      NodeID: 1
+      NodeID: 4
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
